@@ -30,7 +30,7 @@ This mirrors real-world exchange → trading engine → analytics pipelines.
 
 ## Worflow Run 
 
-<video controls src="Screencast from 2026-01-26 02-53-36.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/cfc57025-a015-426e-bbb5-d4e51e087b25
 
 ---
 
