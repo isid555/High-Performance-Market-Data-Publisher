@@ -1,15 +1,6 @@
 # HFT_System — Low-Latency Market Data Fanout (SHM + TCP)
 
 
-# Submission Details :
-
-### Name : Siddharth R
-
-### Roll : 23bcs10076
-
-### Email : siddharth.23bcs10076@sst.scaler.com
-
-
 
 
 ## Executive Summary
